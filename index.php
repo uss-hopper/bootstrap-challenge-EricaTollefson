@@ -37,12 +37,19 @@
 			</nav>
 
 		<div class="container-fluid">
-			<div class="jumbotron">
-
+			<div class="jumbotron mt-5">
+				<h1 class="display-4">Hello, world!</h1>
+				<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+				<p class="lead">
+					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+				</p>
 			</div>
 
-			<div class="about">
-
+			<div class="media bg-secondary">
+				<img class="align-self-center mr-3 img-thumbnail img-fluid" src="cat-1.jpg" alt="a cute cat">
+				<div class="media-body">
+					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves, for while happily ignoring when being called. Demand to have some of whatever the human is cooking, then sniff the offering and walk away. Sleep dream about hunting birds or jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water, use lap as chair.</p>
+				</div>
 			</div>
 
 			<div class="gallery">
