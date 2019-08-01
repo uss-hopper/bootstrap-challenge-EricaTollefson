@@ -44,11 +44,16 @@
 					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 				</p>
 			</div>
+		</div>
 
 			<div class="media bg-secondary">
-				<img class="align-self-center mr-3 img-thumbnail img-fluid" src="cat-1.jpg" alt="a cute cat">
-				<div class="media-body">
+				<div class="row d-flex p-5 align-items-center">
+					<div class="col-sm-3 mx-auto d-inline">
+						<img class="img-fluid float-left mx-auto d-inline-block" src="cat-1.jpg" alt="a cute cat">
+					</div>
+					<div class="col-sm-9 align-self-center p-3">
 					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves, for while happily ignoring when being called. Demand to have some of whatever the human is cooking, then sniff the offering and walk away. Sleep dream about hunting birds or jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water, use lap as chair.</p>
+					</div>
 				</div>
 			</div>
 
@@ -62,7 +67,7 @@
 
 
 
-		</div>
+
 	</body>
 
 </html>
