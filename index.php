@@ -19,24 +19,24 @@
 		<title>Bootstrap Challenge</title>
 	</head>
 	<body>
-		<div class="container ">
-			<nav class="navbar navbar-expand-lg navbar-light border border-muted rounded" style="background-color: #F8F8F8;">
-				<a class="navbar-brand text-muted" href="#">Challenge</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse text-muted" id="navbarNavAltMarkup">
-					<div class="navbar-nav ml-auto">
-						<a class="nav-item nav-link" href="#">Link 1</a>
-						<a class="nav-item nav-link" href="#">Link 2</a>
-						<a class="nav-item nav-link" href="#">Link 3</a>
-						<a class="nav-item nav-link" href="#">Link 4</a>
+			<nav class="navbar navbar-expand-md navbar-light border border-muted rounded m-3" style="background-color: #F8F8F8;">
+				<div class="container-fluid">
+					<a class="navbar-brand text-muted" href="#">Challenge</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse text-muted" id="navbarNavAltMarkup">
+						<div class="navbar-nav ml-auto">
+							<a class="nav-item nav-link" href="#">Link 1</a>
+							<a class="nav-item nav-link" href="#">Link 2</a>
+							<a class="nav-item nav-link" href="#">Link 3</a>
+							<a class="nav-item nav-link" href="#">Link 4</a>
+						</div>
 					</div>
 				</div>
 			</nav>
 
-
-
+		<div class="container-fluid">
 			<div class="jumbotron">
 
 			</div>
@@ -53,8 +53,9 @@
 
 			</div>
 
-		</div>
 
+
+		</div>
 	</body>
 
 </html>
