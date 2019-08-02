@@ -46,19 +46,33 @@
 			</div>
 		</div>
 
-			<div class="media bg-secondary">
+			<div class="media bg-secondary flex-row">
 				<div class="row d-flex p-5 align-items-center">
-					<div class="col-sm-3 mx-auto d-inline">
-						<img class="img-fluid float-left mx-auto d-inline-block" src="cat-1.jpg" alt="a cute cat">
+					<div class="col-md-3 col mx-auto d-block">
+						<img class="img-fluid float-left" src="cat-1.jpg" alt="a cute cat">
 					</div>
-					<div class="col-sm-9 align-self-center p-3">
-					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves, for while happily ignoring when being called. Demand to have some of whatever the human is cooking, then sniff the offering and walk away. Sleep dream about hunting birds or jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water, use lap as chair.</p>
+					<div class="col-md-9 p-3">
+					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves, for while happily ignoring when being called. Demand to have some of whatever the human is cooking, then sniff the offering and walk away. Sleep dream about hunting birds or jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and</p>
+					<p>fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water, use lap as chair.</p>
 					</div>
 				</div>
 			</div>
 
 			<div class="gallery">
-
+				<div class="row">
+					<div class="col"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
+					<div class="col"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
+					<div class="col"><img class="img-fluid rounded-circle" src="cat-4.jpg" alt="a cute cat"></div>
+					<div class="col"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
+				</div>
+				<div class="row">
+					<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+					</div>
+					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
+					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
+					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
+				</div>
 			</div>
 
 			<div class="footer">
