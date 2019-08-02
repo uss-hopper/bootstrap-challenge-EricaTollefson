@@ -58,7 +58,7 @@
 				</div>
 			</div>
 
-			<div class="gallery">
+			<div class="gallery d-none d-md-block">
 				<div class="row">
 					<div class="col"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
 					<div class="col"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
@@ -74,7 +74,32 @@
 					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
 				</div>
 			</div>
-
+		<div class="gallery d-block d-md-none">
+			<div class="d-flex flex-column">
+				<div class="col"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
+				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+				</div>
+			</div>
+			<div class="d-flex flex-column">
+				<div class="col"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
+				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+				</div>
+			</div>
+			<div class="d-flex flex-column">
+				<div class="col"><img class="img-fluid rounded-circle" src="cat-4.jpg" alt="a cute cat"></div>
+				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+				</div>
+			</div>
+			<div class="d-flex flex-column">
+				<div class="col"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
+				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+				</div>
+			</div>
+		</div>
 			<div class="footer">
 
 			</div>
