@@ -66,16 +66,16 @@
 					<div class="col-md-3 m-auto"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
 				</div>
 				<div class="row d-flex flex-row justify-content-center align-items-center">
-					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+					<div class="col-md-3 caption my-auto text-center border border-muted rounded px-0" style="background-color: #F8F8F8;">
 						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 					</div>
-					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+					<div class="col-md-3 my-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
 						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 					</div>
-					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+					<div class="col-md-3 my-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
 						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 					</div>
-					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+					<div class="col-md-3 my-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
 						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 					</div>
 				</div>
@@ -106,13 +106,8 @@
 				</div>
 			</div>
 		</div>
-			<div class="footer">
-
+			<div class="footer bg-dark d-flex flex-column align-items-center align-content-center mt-5" style="height: 60px;">
+				<p class="text-center text-white my-auto">Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves </p>
 			</div>
-
-
-
-
 	</body>
-
 </html>
