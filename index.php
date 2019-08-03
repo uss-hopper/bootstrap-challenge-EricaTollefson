@@ -58,44 +58,50 @@
 				</div>
 			</div>
 
-			<div class="gallery d-none d-md-block">
-				<div class="row">
-					<div class="col"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
-					<div class="col"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
-					<div class="col"><img class="img-fluid rounded-circle" src="cat-4.jpg" alt="a cute cat"></div>
-					<div class="col"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
+			<div class="container-fluid d-none d-md-block">
+				<div class="row d-flex flex-row justify-content-around">
+					<div class="col-md-3 m-auto"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
+					<div class="col-md-3 m-auto"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
+					<div class="col-md-3 m-auto"><img class="img-fluid rounded-circle" src="cat-4.jpg" alt="a cute cat"></div>
+					<div class="col-md-3 m-auto"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
 				</div>
-				<div class="row">
-					<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+				<div class="row d-flex flex-row justify-content-center align-items-center">
+					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
 						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 					</div>
-					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
-					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
-					<div class="col text-center"><p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p></div>
+					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+					</div>
+					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+					</div>
+					<div class="col-md-3 m-auto text-center border border-muted rounded" style="background-color: #F8F8F8;">
+						<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
+					</div>
 				</div>
 			</div>
-		<div class="gallery d-block d-md-none">
-			<div class="d-flex flex-column">
-				<div class="col"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
-				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+		<div class="container-fluid d-block d-md-none">
+			<div class="d-flex flex-column justify-content-center align-items-center">
+				<div class="col my-5 w-50"><img class="img-fluid rounded-circle" src="cat-2.jpg" alt="a cute cat"></div>
+				<div class="col mx-5 w-50 text-center border border-muted rounded" style="background-color: #F8F8F8;">
 					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 				</div>
 			</div>
-			<div class="d-flex flex-column">
-				<div class="col"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
-				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+			<div class="d-flex flex-column justify-content-center align-items-center">
+				<div class="col my-5 w-50"><img class="img-fluid rounded-circle" src="cat-3.jpg" alt="a cute cat"></div>
+				<div class="col mx-5 w-50 text-center border border-muted rounded" style="background-color: #F8F8F8;">
 					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 				</div>
 			</div>
-			<div class="d-flex flex-column">
-				<div class="col"><img class="img-fluid rounded-circle" src="cat-4.jpg" alt="a cute cat"></div>
-				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+			<div class="d-flex flex-column justify-content-center align-items-center">
+				<div class="col my-5 w-50"><img class="img-fluid rounded-circle" src="cat-4.jpg" alt="a cute cat"></div>
+				<div class="col mx-5 w-50 text-center border border-muted rounded" style="background-color: #F8F8F8;">
 					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 				</div>
 			</div>
-			<div class="d-flex flex-column">
-				<div class="col"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
-				<div class="col text-center border border-muted rounded mt-2 mb-2" style="background-color: #F8F8F8;">
+			<div class="d-flex flex-column justify-content-center align-items-center">
+				<div class="col my-5 w-50"><img class="img-fluid rounded-circle" src="cat-5.jpg" alt="a cute cat"></div>
+				<div class="col mx-5 w-50 text-center border border-muted rounded" style="background-color: #F8F8F8;">
 					<p>Cat ipsum dolor sit amet, jump five feet high and sideways when a shadow moves</p>
 				</div>
 			</div>
